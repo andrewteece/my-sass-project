@@ -1,5 +1,7 @@
 $clr-primary: green;
+$clr-bg: black;
 
 body {
+  background: $clr-bg;
   color: $clr-primary;
 }
