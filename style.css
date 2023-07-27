@@ -3,4 +3,11 @@ body {
   color: green;
 }
 
+a {
+  text-decoration: none;
+}
+a:hover, a:focus-visible {
+  text-decoration: underline;
+}
+
 /*# sourceMappingURL=style.css.map */
